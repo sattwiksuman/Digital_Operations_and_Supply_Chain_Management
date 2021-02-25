@@ -2,4 +2,4 @@
 
 Includes Python scripts on different analysis useful in the field of Logistics and Supply Chain Management
 
-Code1: facilitates ABC analysis on data
+The codes included in this repository facilitate ABC analysis, XYZ analysis or both on excel data 
